@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>protPlayer</Name>
+  <Id>com.protman.protPlayer</Id>
+  <Version>0.20151115</Version>
+  <ApiVersion>4</ApiVersion>
+  <Author>protman | protman@gmail.com</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>misc</Category>
+  <Description>plays a playlist</Description>
+  <Homepage>http://protman.com</Homepage>
+  <Platform/>
+  <Icon/>
+</RenoiseScriptingTool>
+
+
